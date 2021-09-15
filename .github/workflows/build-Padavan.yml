@@ -9,8 +9,8 @@ env:
   REPO_BRANCH: master
   UPLOAD_WETRANSFER: false
   UPLOAD_RELEASE: true
-  Build_Targets: RM2100
-  CONFIG_FILE: RM2100.config
+  Build_Targets: K2P
+  CONFIG_FILE: K2P.config
   DIY_SH: diy.sh
 
 jobs:
