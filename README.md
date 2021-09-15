@@ -1,8 +1,8 @@
-# Github Actions Padavan RM2100
+# Github Actions Padavan K2P
 
 - Padavan源码是[hanwckf/rt-n56u](https://github.com/hanwckf/rt-n56u)。
-- Github Actions参考自[P3TERX/Actions-OpenWrt](https://github.com/P3TERX/Actions-OpenWrt)&[hanwckf/scut_padavan_build](https://github.com/hanwckf/scut_padavan_build)。
-- 编译目标为Redmi-AC2100
+- Github Actions参考自[P3TERX/Actions-OpenWrt](https://github.com/P3TERX/Actions-OpenWrt)&[hanwckf/scut_padavan_build](https://github.com/hanwckf/scut_padavan_build)&[Ljzkirito/Actions-Padavan_Redmi-AC2100](https://github.com/Ljzkirito/Actions-Padavan_Redmi-AC2100)。
+- 编译目标为K2P
 - 默认登陆地址[192.168.5.1](http://192.168.5.1),登录名admin/admin
 
 ### Actions secrets配置
