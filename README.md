@@ -1,3 +1,7 @@
+# Repo Status
+
+- DONT WORK TILL NOW
+
 # Github Actions Padavan K2P
 
 - Padavan源码是[hanwckf/rt-n56u](https://github.com/hanwckf/rt-n56u)。
